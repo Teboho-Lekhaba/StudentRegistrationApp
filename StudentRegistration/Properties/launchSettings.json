@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StudentRegistration": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
